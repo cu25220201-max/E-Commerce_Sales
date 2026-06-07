@@ -53,9 +53,8 @@ Creates the Sales table inside the database
 Adds product sales records into the database.
 # Analyze Data
 <img width="407" height="254" alt="image" src="https://github.com/user-attachments/assets/5f98d887-bca9-4bed-9d3a-fe39ca6c7cfb" />
+<img width="594" height="443" alt="image" src="https://github.com/user-attachments/assets/b399def9-02f5-4c06-a2ec-2930abbfc352" />
 
-<img width="594" height="443" alt="image" src="https://github.com/user-attachments/assets/c1eb5100-0c34-4010-9aa2-
-c13ca60786dc" />
 
 <img width="495" height="428" alt="image" src="https://github.com/user-attachments/assets/9516c04e-fa8e-419c-8fbc-931052701b06" />
 
